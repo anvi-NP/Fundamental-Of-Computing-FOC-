@@ -1,0 +1,13 @@
+Fashion Plaza
+Address: LAHAN-1
+Phone: 9824707814
+Email: npai4s230020@gmail.com
+Customer Name: shyam
+Date of Rental: 2023-08-25
+Items Rented:
+- Velvet Table Cloth             -  Saathi           - $8 - Quantity: 2
+- Microphone Set                 -  Audio Technica   - $189 - Quantity: 2
+- Disco Light Set                -  Sonoff           - $322 - Quantity: 3
+Total Amount: $1360
+Rented Date: 2023-08-30
+Note: Please return the equipment within 5 days to avoid fines.
